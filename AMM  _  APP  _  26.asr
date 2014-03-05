@@ -1,0 +1,270 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
+SECTORTITLE:OJAC_CTR.sct2
+Airports:OJHF:name
+Airports:OJHF:symbol
+Airports:OJHR:name
+Airports:OJHR:symbol
+Airports:OJMF:name
+Fixes:ALNOR:name
+Fixes:ALNOR:symbol
+Fixes:BUSRA:name
+Fixes:BUSRA:symbol
+Fixes:ELOXI:name
+Fixes:ELOXI:symbol
+Fixes:GENEX:name
+Fixes:GENEX:symbol
+Fixes:HAZEM:name
+Fixes:HAZEM:symbol
+Fixes:JEEZA:name
+Fixes:JEEZA:symbol
+Fixes:KAMEL:name
+Fixes:KAMEL:symbol
+Fixes:KINAR:name
+Fixes:KINAR:symbol
+Fixes:KULDI:name
+Fixes:KULDI:symbol
+Fixes:LOSAR:name
+Fixes:LOSAR:symbol
+Fixes:LOXER:name
+Fixes:LOXER:symbol
+Fixes:LUDAN:name
+Fixes:LUDAN:symbol
+Fixes:MASUA:name
+Fixes:MASUA:symbol
+Fixes:MAZAR:name
+Fixes:MAZAR:symbol
+Fixes:MOUAB:name
+Fixes:MOUAB:symbol
+Fixes:OSAMA:name
+Fixes:OSAMA:symbol
+Fixes:QASIR:name
+Fixes:QASIR:symbol
+Fixes:SALAM:name
+Fixes:SALAM:symbol
+Fixes:TALMI:name
+Fixes:TALMI:symbol
+Fixes:TAMAR:name
+Fixes:TAMAR:symbol
+Free Text:OJAI PARKING\1:freetext
+Free Text:OJAI PARKING\10:freetext
+Free Text:OJAI PARKING\11:freetext
+Free Text:OJAI PARKING\12:freetext
+Free Text:OJAI PARKING\15:freetext
+Free Text:OJAI PARKING\16:freetext
+Free Text:OJAI PARKING\17:freetext
+Free Text:OJAI PARKING\18:freetext
+Free Text:OJAI PARKING\19:freetext
+Free Text:OJAI PARKING\2:freetext
+Free Text:OJAI PARKING\2:freetext
+Free Text:OJAI PARKING\20:freetext
+Free Text:OJAI PARKING\23:freetext
+Free Text:OJAI PARKING\24:freetext
+Free Text:OJAI PARKING\25:freetext
+Free Text:OJAI PARKING\26:freetext
+Free Text:OJAI PARKING\27:freetext
+Free Text:OJAI PARKING\28:freetext
+Free Text:OJAI PARKING\29:freetext
+Free Text:OJAI PARKING\3:freetext
+Free Text:OJAI PARKING\3:freetext
+Free Text:OJAI PARKING\30:freetext
+Free Text:OJAI PARKING\31:freetext
+Free Text:OJAI PARKING\32:freetext
+Free Text:OJAI PARKING\4:freetext
+Free Text:OJAI PARKING\5:freetext
+Free Text:OJAI PARKING\9:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\B:freetext
+Free Text:OJAI TAXIWAY\C:freetext
+Free Text:OJAI TAXIWAY\D:freetext
+Free Text:OJAI TAXIWAY\E:freetext
+Free Text:OJAI TAXIWAY\F:freetext
+Free Text:OJAI TAXIWAY\G:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\J:freetext
+Free Text:OJAI TAXIWAY\K:freetext
+Free Text:OJAI TAXIWAY\L:freetext
+Free Text:OJAI TAXIWAY\M:freetext
+Free Text:OJAI TAXIWAY\N:freetext
+Free Text:OJAI TAXIWAY\S:freetext
+Free Text:OJAM TAXIWAY\A1:freetext
+Free Text:OJAM TAXIWAY\A2:freetext
+Free Text:OJAM TAXIWAY\B:freetext
+Free Text:OJAM TAXIWAY\C:freetext
+Free Text:OJAM TAXIWAY\D:freetext
+Free Text:OJAM TAXIWAY\E:freetext
+Free Text:OJAM TAXIWAY\E:freetext
+Free Text:OJAM TAXIWAY\F:freetext
+Free Text:OJAQ TAXIWAY\A:freetext
+Free Text:OJAQ TAXIWAY\A:freetext
+Free Text:OJAQ TAXIWAY\B:freetext
+Free Text:OJAQ TAXIWAY\C:freetext
+Free Text:OJAQ TAXIWAY\D:freetext
+Free Text:OJAQ TAXIWAY\M:freetext
+Geo:GEO:
+Geo:OJAI_Ground:
+Geo:OJAM GROUND:
+Geo:OJAQ GROUND:
+High airways:A412:line
+High airways:A412:name
+High airways:B544:line
+High airways:B544:name
+High airways:L200:line
+High airways:L200:name
+High airways:L513:line
+High airways:L513:name
+High airways:R652:line
+High airways:R652:name
+High airways:UR219(RNP5):line
+High airways:UR219(RNP5):name
+High airways:UR785(RNP5):line
+High airways:UR785(RNP5):name
+High airways:W333:line
+High airways:W333:name
+NDBs:AQ:name
+NDBs:AQ:symbol
+NDBs:AQA:name
+NDBs:AQA:symbol
+NDBs:AQC:name
+NDBs:AQC:symbol
+NDBs:JYO:name
+NDBs:JYO:symbol
+NDBs:JYT:name
+NDBs:JYT:symbol
+NDBs:MDB:name
+NDBs:MDB:symbol
+NDBs:QA:name
+NDBs:QA:symbol
+NDBs:QL:name
+NDBs:QL:symbol
+Regions:Dead_Sea:polygon
+Runways:OJAI 08L-26R:centerline
+Runways:OJAI 08L-26R:extended centerline 1
+Runways:OJAI 08L-26R:extended centerline 1 left base
+Runways:OJAI 08L-26R:extended centerline 1 left ticks
+Runways:OJAI 08L-26R:extended centerline 1 left vectoring
+Runways:OJAI 08L-26R:extended centerline 1 right base
+Runways:OJAI 08L-26R:extended centerline 1 right ticks
+Runways:OJAI 08L-26R:extended centerline 1 right vectoring
+Runways:OJAI 08L-26R:extended centerline 2
+Runways:OJAI 08L-26R:extended centerline 2 left base
+Runways:OJAI 08L-26R:extended centerline 2 left ticks
+Runways:OJAI 08L-26R:extended centerline 2 left vectoring
+Runways:OJAI 08L-26R:extended centerline 2 right base
+Runways:OJAI 08L-26R:extended centerline 2 right ticks
+Runways:OJAI 08L-26R:extended centerline 2 right vectoring
+Runways:OJAI 08R-26L:centerline
+Runways:OJAI 08R-26L:extended centerline 1
+Runways:OJAI 08R-26L:extended centerline 1 left base
+Runways:OJAI 08R-26L:extended centerline 1 left ticks
+Runways:OJAI 08R-26L:extended centerline 1 left vectoring
+Runways:OJAI 08R-26L:extended centerline 1 right base
+Runways:OJAI 08R-26L:extended centerline 1 right ticks
+Runways:OJAI 08R-26L:extended centerline 1 right vectoring
+Runways:OJAI 08R-26L:extended centerline 2
+Runways:OJAI 08R-26L:extended centerline 2 left base
+Runways:OJAI 08R-26L:extended centerline 2 left ticks
+Runways:OJAI 08R-26L:extended centerline 2 left vectoring
+Runways:OJAI 08R-26L:extended centerline 2 right base
+Runways:OJAI 08R-26L:extended centerline 2 right ticks
+Runways:OJAI 08R-26L:extended centerline 2 right vectoring
+Runways:OJAM 06-24:centerline
+Runways:OJAM 06-24:extended centerline 1
+Runways:OJAM 06-24:extended centerline 1 left base
+Runways:OJAM 06-24:extended centerline 1 left ticks
+Runways:OJAM 06-24:extended centerline 1 left vectoring
+Runways:OJAM 06-24:extended centerline 1 right base
+Runways:OJAM 06-24:extended centerline 1 right ticks
+Runways:OJAM 06-24:extended centerline 1 right vectoring
+Runways:OJAM 06-24:extended centerline 2
+Runways:OJAM 06-24:extended centerline 2 left base
+Runways:OJAM 06-24:extended centerline 2 left ticks
+Runways:OJAM 06-24:extended centerline 2 left vectoring
+Runways:OJAM 06-24:extended centerline 2 right base
+Runways:OJAM 06-24:extended centerline 2 right ticks
+Runways:OJAM 06-24:extended centerline 2 right vectoring
+Runways:OJAQ 01-19:centerline
+Runways:OJAQ 01-19:extended centerline 1
+Runways:OJAQ 01-19:extended centerline 1 left base
+Runways:OJAQ 01-19:extended centerline 1 left ticks
+Runways:OJAQ 01-19:extended centerline 1 left vectoring
+Runways:OJAQ 01-19:extended centerline 1 right base
+Runways:OJAQ 01-19:extended centerline 1 right ticks
+Runways:OJAQ 01-19:extended centerline 1 right vectoring
+Runways:OJAQ 01-19:extended centerline 2
+Runways:OJAQ 01-19:extended centerline 2 left base
+Runways:OJAQ 01-19:extended centerline 2 left ticks
+Runways:OJAQ 01-19:extended centerline 2 left vectoring
+Runways:OJAQ 01-19:extended centerline 2 right base
+Runways:OJAQ 01-19:extended centerline 2 right ticks
+Runways:OJAQ 01-19:extended centerline 2 right vectoring
+Runways:OJMF 13-31:centerline
+Runways:OJMF 13-31:extended centerline 1
+Runways:OJMF 13-31:extended centerline 1 left ticks
+Runways:OJMF 13-31:extended centerline 1 right ticks
+Runways:OJMF 13-31:extended centerline 2
+Runways:OJMF 13-31:extended centerline 2 left ticks
+Runways:OJMF 13-31:extended centerline 2 right ticks
+Sids:OJAI 26L/R (KULDI 2D):
+Sids:OJAI 26L/R (LOSAR 2D):
+Sids:OJAI 26L/R (LUDAN 2D):
+Sids:OJAI 26L/R (MOUAB 2D):
+Sids:OJAI 26L/R (OSAMA 2D):
+Sids:OJAI 26L/R (QTR 2D):
+Stars:OJAI 26L/R (ELOXI 2A):
+Stars:OJAI 26L/R (KULDI 2A):
+Stars:OJAI 26L/R (LOSAR 2A):
+Stars:OJAI 26L/R (LUDAN 2A):
+Stars:OJAI 26L/R (QTR 2A):
+Stars:OJAI 26L/R (SALAM 2A):
+VORs:ABQ:name
+VORs:ABQ:symbol
+VORs:AMN:name
+VORs:AMN:symbol
+VORs:ASH:name
+VORs:ASH:symbol
+VORs:DAM:frequency
+VORs:DAM:name
+VORs:DAM:symbol
+VORs:GRY:name
+VORs:GRY:symbol
+VORs:LOT:name
+VORs:LOT:symbol
+VORs:MZD:name
+VORs:MZD:symbol
+VORs:QAA:name
+VORs:QAA:symbol
+VORs:QTR:name
+VORs:QTR:symbol
+VORs:ROP:name
+VORs:ROP:symbol
+VORs:TAN:name
+VORs:TAN:symbol
+VORs:TBK:name
+VORs:TBK:symbol
+VORs:TRF:name
+VORs:TRF:symbol
+VORs:ZFR:name
+VORs:ZFR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:28.231802:29.207886:35.456320:48.154993

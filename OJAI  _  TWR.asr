@@ -1,0 +1,74 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
+SECTORTITLE:OJAC_CTR.sct2
+ARTCC low boundary:OJAI_TWR:
+Fixes:CF08L:name
+Fixes:CF08L:symbol
+Fixes:CF24:name
+Fixes:CF24:symbol
+Fixes:CF26L:name
+Fixes:CF26L:symbol
+Fixes:CI26R:name
+Fixes:CI26R:symbol
+Geo:GEO:
+Geo:OJAI_Ground:
+Geo:OJAM GROUND:
+NDBs:AQ:frequency
+NDBs:AQ:name
+NDBs:AQ:symbol
+NDBs:AQA:frequency
+NDBs:AQA:name
+NDBs:AQA:symbol
+NDBs:AQC:frequency
+NDBs:AQC:name
+NDBs:AQC:symbol
+NDBs:JYO:frequency
+NDBs:JYO:name
+NDBs:JYO:symbol
+NDBs:JYT:frequency
+NDBs:JYT:name
+NDBs:JYT:symbol
+NDBs:MDB:name
+NDBs:MDB:symbol
+NDBs:QA:name
+NDBs:QA:symbol
+NDBs:QL:name
+NDBs:QL:symbol
+Regions:Dead_Sea:polygon
+Runways:OJAI 08L-26R:centerline
+Runways:OJAI 08L-26R:extended centerline 1
+Runways:OJAI 08L-26R:extended centerline 1 left ticks
+Runways:OJAI 08L-26R:extended centerline 1 right ticks
+Runways:OJAI 08L-26R:extended centerline 2
+Runways:OJAI 08L-26R:extended centerline 2 left ticks
+Runways:OJAI 08L-26R:extended centerline 2 right ticks
+Runways:OJAI 08R-26L:centerline
+Runways:OJAI 08R-26L:extended centerline 1
+Runways:OJAI 08R-26L:extended centerline 1 left ticks
+Runways:OJAI 08R-26L:extended centerline 1 right ticks
+Runways:OJAI 08R-26L:extended centerline 2
+Runways:OJAI 08R-26L:extended centerline 2 left ticks
+Runways:OJAI 08R-26L:extended centerline 2 right ticks
+Runways:OJAM 06-24:extended centerline 1
+Runways:OJAM 06-24:extended centerline 1 left ticks
+Runways:OJAM 06-24:extended centerline 1 right ticks
+Runways:OJAM 06-24:extended centerline 2
+Runways:OJAM 06-24:extended centerline 2 left ticks
+Runways:OJAM 06-24:extended centerline 2 right ticks
+VORs:AMN:name
+VORs:AMN:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:2200
+ABOVE:6000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:NARDS
+WINDOWAREA:31.414037:35.603986:31.965600:36.555417

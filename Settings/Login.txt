@@ -1,0 +1,38 @@
+PROFILE
+PROFILE:OJAI_TWR:15:4
+ATIS2:Queen Alia Tower
+ATIS3:Landing and Departing 26L
+ATIS4:Charts and Info visit  - vatjo.net -
+PROFILE:AMM_APP:60:5
+ATIS2:Amman Approach
+ATIS3:Charts and Info visit  - vatjo.net - | NOTAMS RWY 26R/08L CLSD | 
+ATIS4:OJAI Landing and Departing 26L | OJAM Landing and Departing 24 | 
+PROFILE:OJAI_GND:15:3
+ATIS2:Queen Alia Ground
+ATIS3:Landing and Departing 26L
+ATIS4:Charts and Info visit  - vatjo.net -
+PROFILE:OJAM_TWR:15:4
+ATIS2:Marka Tower
+ATIS3:Landing and Departing
+ATIS4:Charts and Info visit  - vatjo.net -
+PROFILE:OJAM_GND:15:3
+ATIS2:Marka Ground
+ATIS3:Landing and Departing
+ATIS4:Charts and Info visit  - vatjo.net -
+PROFILE:OJAQ_GND:15:3
+ATIS2:King Hussian Ground
+ATIS3:Landing and Departing
+ATIS4:Charts and Info visit  - vatjo.net -
+PROFILE:OJAQ_TWR:15:4
+ATIS2:King Hussian Tower
+ATIS3:Landing and Departing
+ATIS4:Charts and Info visit  - vatjo.net -
+PROFILE:OJAQ_APP:15:5
+ATIS2:King Hussian Approach
+ATIS3:Landing and Departing
+ATIS4:Charts and Info visit  - vatjo.net -
+PROFILE:OJAC_CTR:15:6
+ATIS2:Amman Control
+ATIS3:Landing and Departing
+ATIS4:Charts and Info visit  - vatjo.net -
+END

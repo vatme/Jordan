@@ -1,0 +1,29 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
+SECTORTITLE:OJAC_CTR.sct2
+ARTCC low boundary:OJAQ_TWR:
+Geo:GEO:
+Geo:OJAQ GROUND:
+High airways:R652:line
+High airways:R652:name
+Runways:OJAQ 01-19:extended centerline 1
+Runways:OJAQ 01-19:extended centerline 1 left ticks
+Runways:OJAQ 01-19:extended centerline 1 right ticks
+Runways:OJAQ 01-19:extended centerline 2
+Runways:OJAQ 01-19:extended centerline 2 left ticks
+Runways:OJAQ 01-19:extended centerline 2 right ticks
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:3000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:NARDS
+WINDOWAREA:29.277624:34.574208:29.829185:35.525635

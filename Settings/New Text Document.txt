@@ -1,0 +1,12 @@
+VOICE
+AG:OJAI_TWR:119.800:rw.liveatc.net:ojai_twr
+AG:AMM_APP:128.900:rw.liveatc.net:amm_app
+AG:OJAI_GND:121.700:rw.liveatc.net:ojai_gnd
+AG:OJAI_ATIS:127.600:rw.liveatc.net:ojai_atis
+AG:OJAC_CTR:128.500:rw.liveatc.net:ojac_ctr
+AG:OJAM_GND:121.700:rw.liveatc.net:ojam_gnd
+AG:OJAM_TWR:118.100:rw.liveatc.net:ojam_twr
+AG:OJAQ_GND:121.900:rw.liveatc.net:ojaq_gnd
+AG:OJAQ_TWR:119.250:rw.liveatc.net:ojaq_twr
+AG:OJAQ_APP:119.200:rw.liveatc.net:ojaq_app
+END

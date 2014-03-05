@@ -1,0 +1,27 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
+SECTORTITLE:OJAC_CTR.sct2
+Free Text:OJAM TAXIWAY\A1:freetext
+Free Text:OJAM TAXIWAY\A2:freetext
+Free Text:OJAM TAXIWAY\B:freetext
+Free Text:OJAM TAXIWAY\C:freetext
+Free Text:OJAM TAXIWAY\D:freetext
+Free Text:OJAM TAXIWAY\E:freetext
+Free Text:OJAM TAXIWAY\E:freetext
+Free Text:OJAM TAXIWAY\F:freetext
+Geo:OJAM GROUND:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:3000
+LEADER:1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:31.962848:35.973359:31.983066:36.008235

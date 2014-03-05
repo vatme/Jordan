@@ -1,0 +1,62 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
+SECTORTITLE:OJAC_CTR.sct2
+ARTCC high boundary:AQABA_APP:
+ARTCC low boundary:OJAQ_TWR:
+Fixes:BAKIR:name
+Fixes:BAKIR:symbol
+Fixes:CI01:name
+Fixes:CI01:symbol
+Fixes:DHANA:name
+Fixes:DHANA:symbol
+Fixes:METSA:name
+Fixes:METSA:symbol
+Fixes:PETRA:name
+Fixes:PETRA:symbol
+Fixes:QATIM:name
+Fixes:QATIM:symbol
+Fixes:SAMAR:name
+Fixes:SAMAR:symbol
+Fixes:TAMIM:name
+Fixes:TAMIM:symbol
+Geo:GEO:
+Geo:OJAQ GROUND:
+High airways:R652:line
+High airways:R652:name
+NDBs:AQ:name
+NDBs:AQ:symbol
+NDBs:AQC:name
+NDBs:AQC:symbol
+Runways:OJAQ 01-19:extended centerline 1
+Runways:OJAQ 01-19:extended centerline 1 left base
+Runways:OJAQ 01-19:extended centerline 1 left ticks
+Runways:OJAQ 01-19:extended centerline 1 left vectoring
+Runways:OJAQ 01-19:extended centerline 1 right base
+Runways:OJAQ 01-19:extended centerline 1 right ticks
+Runways:OJAQ 01-19:extended centerline 1 right vectoring
+Runways:OJAQ 01-19:extended centerline 2
+Runways:OJAQ 01-19:extended centerline 2 left base
+Runways:OJAQ 01-19:extended centerline 2 left ticks
+Runways:OJAQ 01-19:extended centerline 2 left vectoring
+Runways:OJAQ 01-19:extended centerline 2 right base
+Runways:OJAQ 01-19:extended centerline 2 right ticks
+Runways:OJAQ 01-19:extended centerline 2 right vectoring
+VORs:ABQ:name
+VORs:ABQ:symbol
+VORs:LOT:name
+VORs:LOT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:3000
+ABOVE:15000
+LEADER:1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:CSiT
+WINDOWAREA:29.193953:34.455666:30.055767:35.942271

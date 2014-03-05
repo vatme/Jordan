@@ -1,0 +1,67 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
+SECTORTITLE:OJAC_CTR.sct2
+Free Text:OJAI PARKING\1:freetext
+Free Text:OJAI PARKING\10:freetext
+Free Text:OJAI PARKING\11:freetext
+Free Text:OJAI PARKING\12:freetext
+Free Text:OJAI PARKING\15:freetext
+Free Text:OJAI PARKING\16:freetext
+Free Text:OJAI PARKING\17:freetext
+Free Text:OJAI PARKING\18:freetext
+Free Text:OJAI PARKING\19:freetext
+Free Text:OJAI PARKING\2:freetext
+Free Text:OJAI PARKING\2:freetext
+Free Text:OJAI PARKING\20:freetext
+Free Text:OJAI PARKING\23:freetext
+Free Text:OJAI PARKING\24:freetext
+Free Text:OJAI PARKING\25:freetext
+Free Text:OJAI PARKING\26:freetext
+Free Text:OJAI PARKING\27:freetext
+Free Text:OJAI PARKING\28:freetext
+Free Text:OJAI PARKING\29:freetext
+Free Text:OJAI PARKING\3:freetext
+Free Text:OJAI PARKING\3:freetext
+Free Text:OJAI PARKING\30:freetext
+Free Text:OJAI PARKING\31:freetext
+Free Text:OJAI PARKING\32:freetext
+Free Text:OJAI PARKING\4:freetext
+Free Text:OJAI PARKING\5:freetext
+Free Text:OJAI PARKING\9:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\A:freetext
+Free Text:OJAI TAXIWAY\B:freetext
+Free Text:OJAI TAXIWAY\C:freetext
+Free Text:OJAI TAXIWAY\D:freetext
+Free Text:OJAI TAXIWAY\E:freetext
+Free Text:OJAI TAXIWAY\F:freetext
+Free Text:OJAI TAXIWAY\G:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\H:freetext
+Free Text:OJAI TAXIWAY\J:freetext
+Free Text:OJAI TAXIWAY\K:freetext
+Free Text:OJAI TAXIWAY\L:freetext
+Free Text:OJAI TAXIWAY\M:freetext
+Free Text:OJAI TAXIWAY\N:freetext
+Free Text:OJAI TAXIWAY\S:freetext
+Geo:OJAI_Ground:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:3000
+LEADER:1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:0
+TAGFAMILY:NARDS
+WINDOWAREA:31.706415:35.966077:31.738008:36.020575

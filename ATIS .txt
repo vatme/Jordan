@@ -1,0 +1,1 @@
+[information] A [weather at] 1300 [,][wind] 250[at]10[,][visibility] [more than][1][0][,] [few clouds]{3000}[,][temperature] 16 [,][dew point]5 [,][Altimeter] 1013[,][landing][ILS][2][6][left][Approach][,][departure] [2][6][left][,][Advise ATC that you have information]A

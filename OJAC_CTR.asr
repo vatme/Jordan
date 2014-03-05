@@ -1,0 +1,133 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
+SECTORTITLE:OJAC_CTR.sct2
+ARTCC boundary:OJAC_CTR:
+ARTCC high boundary:AMMAN_APP:
+ARTCC high boundary:AQABA_APP:
+Fixes:ALNOR:name
+Fixes:ALNOR:symbol
+Fixes:BAKIR:name
+Fixes:BAKIR:symbol
+Fixes:BUSRA:name
+Fixes:BUSRA:symbol
+Fixes:ELOXI:name
+Fixes:ELOXI:symbol
+Fixes:HAZEM:name
+Fixes:HAZEM:symbol
+Fixes:HIDAN:name
+Fixes:HIDAN:symbol
+Fixes:KINAR:name
+Fixes:KINAR:symbol
+Fixes:KULDI:name
+Fixes:KULDI:symbol
+Fixes:LOSAR:name
+Fixes:LOSAR:symbol
+Fixes:LOXER:name
+Fixes:LOXER:symbol
+Fixes:LUDAN:name
+Fixes:LUDAN:symbol
+Fixes:MOUAB:name
+Fixes:MOUAB:symbol
+Fixes:OSAMA:name
+Fixes:OSAMA:symbol
+Fixes:PETRA:name
+Fixes:PETRA:symbol
+Fixes:SALAM:name
+Fixes:SALAM:symbol
+Fixes:SAMAR:name
+Fixes:SAMAR:symbol
+Fixes:TALMI:name
+Fixes:TALMI:symbol
+Geo:GEO:
+Geo:OJAI_Ground:
+Geo:OJAM GROUND:
+Geo:OJAQ GROUND:
+High airways:A412:line
+High airways:A412:name
+High airways:A52:line
+High airways:A52:name
+High airways:B544:line
+High airways:B544:name
+High airways:L200:line
+High airways:L200:name
+High airways:L513:line
+High airways:L513:name
+High airways:R652:line
+High airways:R652:name
+High airways:UR219(RNP5):line
+High airways:UR219(RNP5):name
+High airways:UR785(RNP5):line
+High airways:UR785(RNP5):name
+High airways:W2:line
+High airways:W2:name
+High airways:W333:line
+High airways:W333:name
+Regions:Dead_Sea:polygon
+Runways:OJAI 08L-26R:centerline
+Runways:OJAI 08R-26L:centerline
+Runways:OJAM 06-24:centerline
+Runways:OJAQ 01-19:centerline
+Runways:OJHF 13-31:centerline
+Runways:OJHR 10-28:centerline
+Runways:OJMF 13-31:centerline
+Stars:OJP-1 Mafreq:
+Stars:OJP-9 H5:
+Stars:OJP11:
+Stars:OPJP-10:
+VORs:ABQ:frequency
+VORs:ABQ:name
+VORs:ABQ:symbol
+VORs:AMN:frequency
+VORs:AMN:name
+VORs:AMN:symbol
+VORs:ASH:frequency
+VORs:ASH:name
+VORs:ASH:symbol
+VORs:DAM:frequency
+VORs:DAM:name
+VORs:DAM:symbol
+VORs:GRY:frequency
+VORs:GRY:name
+VORs:GRY:symbol
+VORs:LOT:frequency
+VORs:LOT:name
+VORs:LOT:symbol
+VORs:MZD:frequency
+VORs:MZD:name
+VORs:MZD:symbol
+VORs:QAA:frequency
+VORs:QAA:name
+VORs:QAA:symbol
+VORs:QTR:frequency
+VORs:QTR:name
+VORs:QTR:symbol
+VORs:ROP:frequency
+VORs:ROP:name
+VORs:ROP:symbol
+VORs:TAN:frequency
+VORs:TAN:name
+VORs:TAN:symbol
+VORs:TBK:frequency
+VORs:TBK:name
+VORs:TBK:symbol
+VORs:TRF:frequency
+VORs:TRF:name
+VORs:TRF:symbol
+VORs:ZFR:frequency
+VORs:ZFR:name
+VORs:ZFR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:60000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:CSiT
+WINDOWAREA:28.503858:28.008019:34.128897:44.617976
