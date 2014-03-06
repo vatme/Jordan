@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
-SECTORTITLE:OJAC_CTR.sct2
+SECTORFILE:\OJAC_CTR.sct
+SECTORTITLE:OJAC_CTR.sct
 ARTCC boundary:OJAC_CTR:
 ARTCC high boundary:AMMAN_APP:
 ARTCC high boundary:AQABA_APP:

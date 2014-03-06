@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct2
-SECTORTITLE:OJAC_CTR.sct2
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\VATJO\OJAC_CTR.sct
+SECTORTITLE:OJAC_CTR.sct
 Airports:OJHF:name
 Airports:OJHF:symbol
 Airports:OJHR:name

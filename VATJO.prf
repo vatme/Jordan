@@ -7,7 +7,7 @@ LastSession	atis2	Amman Control
 LastSession	atis3	Landing and Departing on 26L
 LastSession	atis4	Charts and Info visit  - vatjo.net -
 LastSession	range	300
-Settings	sector	\OJAC_CTR.sct2
+Settings	sector	\OJAC_CTR.sct
 Voice	bass_filter	0
 RecentFiles	Recent3	\OJAC_CTR.asr
 LastSession	atis_airport	OJAQ
