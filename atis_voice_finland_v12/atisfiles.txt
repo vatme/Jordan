@@ -134,6 +134,7 @@ RECORD:northeast:northeast.wav
 RECORD:northwest:northwest.wav
 RECORD:NOSIG:nosig.wav
 RECORD:o:o.wav
+RECORD:OJAI:OJAI.wav
 RECORD:or:or.wav
 RECORD:Oulu:efou.wav
 RECORD:overcast:ovc.wav
@@ -231,28 +232,27 @@ RECORD:x:x.wav
 RECORD:y:y.wav
 RECORD:z:z.wav
 ITEM:This is:XXX
-ITEM:OJAQ:
+ITEM:OJAI:XXX
 ITEM:information:XXX
 ITEM:D:
 ITEM:at time:XXX
-ITEM:2100:
+ITEM:2200:
 ITEM:expect ILS approach:XXX
 ITEM:runway:XXX
-ITEM:01:
+ITEM:26L:
 ITEM:in use:XXX
-ITEM:transition level:XXX
-ITEM:50:
 ITEM:wind:XXX
-ITEM:010:
+ITEM:330:
 ITEM:degrees:XXX
-ITEM:6:
+ITEM:3:
 ITEM:knots:XXX
 ITEM:CAVOK:XXX
 ITEM:temperature:XXX
-ITEM:22:
+ITEM:17:
 ITEM:dew point:XXX
-ITEM:10:
+ITEM:12:
 ITEM:QNH:XXX
-ITEM:1014:
+ITEM:1015:
+ITEM:NOSIG:XXX
 ITEM:advise on initial contact you have information:XXX
 ITEM:D:
