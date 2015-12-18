@@ -16,7 +16,7 @@
 ;
 Amman Control:Amman Control:128.500:AC:C:OJAC:CTR:OJAC:CTR:3500:3577
 ;
-Amman Approach:Amman Approach:128.900:AD:A:AMM:APP:AMM:APP:3711:3777
+Amman Approach:Amman Approach:128.900:AD:A:OJAI:APP:AMM:APP:3711:3777
 ;
 Queen Alia Tower:Queen Alia Tower:119.800:AT:A:OJAI:TWR:OJAI:TWR:6322:6377
 ;
@@ -387,8 +387,8 @@ COORD:N031.52.56.095:E035.46.59.092
 COORD:N032.03.56.105:E035.51.59.097 
 
 
-SECTORLINE:AMM_APP
-DISPLAY:AMM_APP
+SECTORLINE:OJAI_APP
+DISPLAY:OJAI_APP
 
 COORD:N032.03.56.105:E035.51.59.097
 COORD:N032.03.56.107:E036.10.59.123
@@ -640,7 +640,7 @@ COORD:N029.21.27.167:E034.57.51.845;SOUTHERN LLLL FIR TIP
 ;-------------------------------------------------------------------------------------
 
 ;-------------------------------------------------------------------------------------
-CIRCLE_SECTORLINE:AMM_APP:OJAI:60
+CIRCLE_SECTORLINE:OJAI_APP:OJAI:60
 ;-------------------------------------------------------------------------------------
 CIRCLE_SECTORLINE:OJAI_TWR:OJAI:12
 ;-------------------------------------------------------------------------------------
@@ -731,10 +731,10 @@ BORDER:TMA_LINE_10:TMA_LINE_11:TMA_LINE_12:TMA_OJAC
 ;TCU'S
 ;-------------------------------------------------------------------------------------
 
-SECTOR:AMM_APP:0:15000
+SECTOR:OJAI_APP:0:15000
 OWNER:AD:AC
 GUEST:AC:*:*
-BORDER:AMM_APP
+BORDER:OJAI_APP
 DEPAPT:OJAI:OJAM
 ARRAPT:OJAI:OJAM
 

@@ -3,7 +3,7 @@ PROFILE:OJAI_TWR:15:4
 ATIS2:Queen Alia Tower
 ATIS3:Landing and Departing 26L
 ATIS4:Charts and Info visit  - vatjo.net -
-PROFILE:AMM_APP:60:5
+PROFILE:OJAI_APP:60:5
 ATIS2:Amman Approach
 ATIS3:Charts and Info visit  - vatjo.net - | NOTAMS RWY 26R/08L CLSD | 
 ATIS4:OJAI Landing and Departing 26L | OJAM Landing and Departing 24 | 
